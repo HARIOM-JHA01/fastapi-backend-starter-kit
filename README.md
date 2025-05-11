@@ -54,3 +54,23 @@ docker run -d -p 8000:8000 fastapi-backend-starter-kit
 
 ## License
 MIT
+
+## Future Roadmap
+
+The following features and improvements are planned for this FastAPI project:
+
+- [ ] User authentication and authorization improvements (OAuth2, social login)
+- [ ] API versioning and deprecation strategy
+- [ ] Automated testing setup (pytest, coverage)
+- [ ] CI/CD pipeline integration (GitHub Actions, Azure Pipelines, etc.)
+- [ ] Enhanced error handling and logging
+- [ ] API rate limiting and throttling
+- [ ] Asynchronous database support (e.g., with async SQLAlchemy)
+- [ ] Improved API documentation and OpenAPI customization
+- [ ] Docker Compose for multi-service orchestration (DB, cache, etc.)
+- [ ] Production deployment guides (Gunicorn, Uvicorn, Nginx, etc.)
+- [ ] Example frontend integration (React, Vue, etc.)
+- [ ] Internationalization (i18n) support
+- [ ] More sample endpoints and business logic
+
+Feel free to contribute or suggest additional features!
